@@ -89,6 +89,7 @@ repo to install.
   -   [**Cloud Run Basics**](./skills/cloud/cloud-run-basics)
   -   [**Firebase Basics**](./skills/cloud/firebase-basics)
 - **Advertising**
+  -   [**Account Performance Diagnostics Skill**](./skills/ads/google-ads-api/google-ads-api-account-diagnostics)
   -   [**AI Migration Agent Instructions for the Google Mobile Ads SDK**](./skills/ads/google-mobile-ads/google-mobile-ads-android-migrate-to-next-gen)
   -   [**Data Manager API Audience Ingestion**](./skills/ads/data-manager-api/data-manager-api-audience-ingestion)
   -   [**Data Manager API Event Ingestion**](./skills/ads/data-manager-api/data-manager-api-event-ingestion)
